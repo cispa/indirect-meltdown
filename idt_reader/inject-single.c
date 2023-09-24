@@ -8,7 +8,7 @@ int main(int argc, char* argv[]) {
     signal(SIGSEGV, trycatch_segfault_handler);
     
     while(1) {
-        printf("Press key to send interrupt...\n");
+        printf("Press ENTER to send interrupt...\n");
         getchar();
         inject("int $120");
         sched_yield();

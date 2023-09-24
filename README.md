@@ -16,7 +16,7 @@ The folder `mitigation` contain the PoC for our proposed mitigation.
 The folder `website_fp` contains the code we used to fingerprint websites based on leaked network interrupts.
 
 ### Observing Keystroke Timings
-The folder `inter_key_timings` contains code that gathers the timings when you time.
+The folder `inter_key_timings` contains code recovering precise timings of keystrokes.
 
 ## Contact
 If there are questions regarding this tool, please send an email to `daniel.weber (AT) cispa` or message `@weber_daniel` on Twitter.
