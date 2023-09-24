@@ -1,5 +1,9 @@
 # Website Fingerprinting
 
+## Dependencies
+You need to install the Python library `scikit-learn`.
+To do so, execute `pip3 install scikit-learn --user`.
+
 ## Build
 Just run `make`. This will automatically execute `find_core.py` to find the CPU core responsible for handling network interrupts.
 
