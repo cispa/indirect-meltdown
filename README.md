@@ -19,7 +19,7 @@ The folder `website_fp` contains the code we used to fingerprint websites based 
 The folder `inter_key_timings` contains code that gathers the timings when you time.
 
 ## Contact
-If there are questions regarding this tool, please send an email to `daniel.weber (AT) cispa.` or message `@weber_daniel` on Twitter.
+If there are questions regarding this tool, please send an email to `daniel.weber (AT) cispa` or message `@weber_daniel` on Twitter.
 
 ## Research Paper
 You can find the paper [here](https://publications.cispa.saarland/4011/1/masc_esorics23.pdf).
